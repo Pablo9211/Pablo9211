@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **project thah you need**
+- 👯 I’m looking to collaborate on **project that you need**
 
 - 💬 Ask me about **jokes**
 
