@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
-<h3 align="center">I try to be a python programmer and data engineer :3</h3>
+<h3 align="center">I trying to be a python programmer and data engineer :3</h3>
 
 - 🔭 I’m currently working like **cloud engeenier**
 
