@@ -3,11 +3,8 @@
 
 - 🔭 I’m currently working like **cloud engeenier**
 
-- 🌱 I’m currently learning **python**
-
 - 👯 I’m looking to collaborate on **project that you need**
 
-- 💬 Ask me about **jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
